@@ -30,9 +30,3 @@ proxy:
   net: host
   command: ['/hyperkube', 'proxy', '--master=http://127.0.0.1:8080', '--v=2']
   privileged: true
-
-
-
-
-
-
